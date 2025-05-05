@@ -6,5 +6,5 @@ def subtract(a,b):
     return a-b
 
 
-def multiply(a,b):
+def multiply_premium(a,b):
     return a*b
